@@ -8,19 +8,26 @@
 ## 📚 Projects 📚
 
 
-## My Skills include 👨‍💻
+## 💡 My Skills 💡
+    - Data wrangling
+    - Data preparation
+    - Data analysis
+    - Dashboard development and reporting
+    - Exploratory data analysis
+    
+
+## 👨‍💻 My Tools 👨‍💻
 
 <div>
     <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
     <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
     <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
     <img src="https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white">
-    <img src="https://img.shields.io/badge/Google-4285F4.svg?style=for-the-badge&logo=Google&logoColor=white>
+    <img src="https://img.shields.io/badge/Google-4285F4.svg?style=for-the-badge&logo=Google&logoColor=white">
     <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black">
     <img src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white">
     <img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white">
-    <img src="">
-  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
 </div>
 <br>
 <hr>
