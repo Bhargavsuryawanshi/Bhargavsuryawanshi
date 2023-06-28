@@ -23,15 +23,29 @@
 ## 👨‍💻 My Tools 👨‍💻
 
 <div>
-    <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">
-    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">
-    <img src="https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white">
-    <img src="https://img.shields.io/badge/Google-4285F4.svg?style=for-the-badge&logo=Google&logoColor=white">
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black">
-    <img src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white">
-    <img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white">
-    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">
+    <img src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Plotly-3F4F75.svg?style=for-the-badge&logo=Plotly&logoColor=white">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Google-4285F4.svg?style=for-the-badge&logo=Google&logoColor=white">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white">&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white">&nbsp;&nbsp;
 </div>
-<br>
-<hr>
+
+## 🤝 Connect with Me 🤝
+
+<div>
+    <a href="www.linkedin.com/in/bhargavsuryavanshi">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a>&nbsp;&nbsp;
+    <a href="https://twitter.com/Abhayb99">
+        <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+    </a>&nbsp;&nbsp;
+    <a href="mailto: Bhargavsuryawanshi99@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    </a>&nbsp;&nbsp;
+
+</div>
