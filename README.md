@@ -7,17 +7,17 @@
 
 ## 📚 Projects 📚
 <div>
-     <a href="https://github.com/Bhargavsuryawanshi/Data-Analytics/tree/main/Python">
-    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
+     <a href="https://github.com/Bhargavsuryawanshi?tab=repositories">
+     <img src= "https://img.shields.io/badge/Project%20by-Bhargav-blue.svg">
      </a>
 </div>
 
 ## 💡 My Skills 💡
-    - Data wrangling
-    - Data preparation
-    - Data analysis
-    - Dashboard development and reporting
-    - Exploratory data analysis
+##### - Data wrangling
+##### - Data preparation
+##### - Data analysis
+##### - Dashboard development and reporting
+##### - Exploratory data analysis
     
 
 ## 👨‍💻 My Tools 👨‍💻
