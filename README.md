@@ -6,7 +6,11 @@
 👋 Hey there! I’m Bhargav Suryawanshi, a data analyst with a passion for turning data into actionable insights. With a background in Computer Engineering and a recent course in data analysis under my belt, I have the skills and knowledge to tackle complex data challenges. My toolkit includes Python, SQL, Tableau, Power BI, Excel. When I’m not crunching numbers, you can find me exploring new datasets and sharing my findings with the community. Take a look at my repositories and let’s connect! 😊
 
 ## 📚 Projects 📚
-
+<div>
+     <a href="https://github.com/Bhargavsuryawanshi/Data-Analytics/tree/main/Python">
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white">
+     </a>
+</div>
 
 ## 💡 My Skills 💡
     - Data wrangling
